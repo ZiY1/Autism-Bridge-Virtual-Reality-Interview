@@ -103,6 +103,7 @@
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Components\AmbientOcclusionComponent.cs" />
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
+    <Compile Include="Assets\Scripts\HandAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
