@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 678, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 81
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 552
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -150,7 +150,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 69
+  controlID: 110
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 70
+  controlID: 111
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Samples/XR Interaction Toolkit/2.0.1/Starter Assets
+    - Assets/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Samples/XR Interaction Toolkit/2.0.1/Starter Assets
+  - Assets/Materials
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\UnityProjects\A A A A A Senior Design Project\Autism-Bridge-Virtual-Reality-Interview
+  m_LastProjectPath: D:\UnityProjects\A A A A A A Senior Design Project\Autism-Bridge-Virtual-Reality-Interview
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a24e0000
-    m_LastClickedID: 20130
-    m_ExpandedIDs: 00000000ea4d0000ec4d0000ee4d0000f04d0000f24d0000f44d0000f64d00009a4e000000ca9a3b
+    m_SelectedIDs: 46690000
+    m_LastClickedID: 26950
+    m_ExpandedIDs: 000000002c4e00002e4e0000304e0000324e0000344e0000364e0000384e00003a4e0000ae4f0000b04f0000b24f0000b44f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ea4d0000ec4d0000ee4d0000f04d0000f24d0000f44d0000f64d0000
+    m_ExpandedIDs: 000000002c4e00002e4e0000304e0000324e0000344e0000364e0000384e00003a4e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -388,7 +388,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300006a490000864f00007e490000
+    m_ExpandedInstanceIDs: c62300006a490000864f00007e49000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 7e490000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 4cfbffffcc440000fa4400003a4500004e450000
+      m_SelectedIDs: 4afbffff
+      m_LastClickedID: -1206
+      m_ExpandedIDs: 18affeff62c8feffde04fffff41fffff565dfffffa5dffff4cfbffff48450000ba450000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.0984674, y: 0.17437756, z: 1.3191094}
+    m_Target: {x: 5.1929216, y: -1.4244446, z: 4.172725}
     speed: 2
-    m_Value: {x: 4.0984674, y: 0.17437756, z: 1.3191094}
+    m_Value: {x: 5.1929216, y: -1.4244446, z: 4.172725}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -587,18 +587,18 @@ MonoBehaviour:
         m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
+      m_Size: {x: 1, y: 1}
     m_ShowGrid: 1
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.04131644, y: 0.8810492, z: -0.078488335, w: -0.46473625}
+    m_Target: {x: 0.27049768, y: -0.617247, z: 0.23906715, w: 0.6991689}
     speed: 2
-    m_Value: {x: -0.04131448, y: 0.88100743, z: -0.07848461, w: -0.4647142}
+    m_Value: {x: 0.27083522, y: -0.6161504, z: 0.23864287, w: 0.7000404}
   m_Size:
-    m_Target: 4.3267922
+    m_Target: 2.4403121
     speed: 2
-    m_Value: 4.3267922
+    m_Value: 2.1403122
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -616,7 +616,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+  m_LastSceneViewRotation: {x: -0.005207079, y: 0.9946891, z: -0.07356507, w: -0.07263548}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -734,7 +734,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 634
-    width: 1368
+    width: 1367
     height: 365
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &18

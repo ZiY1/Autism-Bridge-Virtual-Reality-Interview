@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Models\DitheringModel.cs" />
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Components\FxaaComponent.cs" />
+    <Compile Include="Assets\Scripts\HandAnimation.cs" />
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Components\ChromaticAberrationComponent.cs" />
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
@@ -103,7 +104,6 @@
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Components\AmbientOcclusionComponent.cs" />
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
-    <Compile Include="Assets\Scripts\HandAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
@@ -118,10 +118,12 @@
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\LutGen.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
+    <None Include="Assets\SimpleTeleportEffect\Shaders\UnlitTextureAlphaColor_URP.shader" />
     <None Include="Assets\OfficeGirl\StandardDoubleSide.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\TAA.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Editor Resources\Monitors\VectorscopeCompute.compute" />
+    <None Include="Assets\SimpleTeleportEffect\Shaders\UnlitTextureAlphaColor_Built-In.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
