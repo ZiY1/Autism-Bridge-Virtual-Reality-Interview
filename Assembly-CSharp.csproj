@@ -106,7 +106,9 @@
     <Compile Include="Assets\Manager Office\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\GrainGen.shader" />
     <None Include="Assets\Manager Office\Readme.txt" />
     <None Include="Assets\Manager Office\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
@@ -114,30 +116,43 @@
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Utilities\CustomMotionTexture\Shaders\CustomMotionVectorTexture.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Editor Resources\UI\CurveBackground.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\LutGen.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
     <None Include="Assets\SimpleTeleportEffect\Shaders\UnlitTextureAlphaColor_URP.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\OfficeGirl\StandardDoubleSide.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\TAA.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Editor Resources\Monitors\VectorscopeCompute.compute" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\SimpleTeleportEffect\Shaders\UnlitTextureAlphaColor_Built-In.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\ACES.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\FXAA.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\Fog.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\MotionBlur.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\DiskKernels.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Bluenoise64\COPYING.txt" />
     <None Include="Assets\Manager Office\PostProcessing\Editor Resources\UI\Trackball.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
@@ -146,11 +161,17 @@
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\Bloom.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\Uber.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\DepthOfField.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\TAA.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\Blit.shader" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\Bloom.cginc" />
     <None Include="Assets\Manager Office\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
     <None Include="Assets\Manager Office\PostProcessing\Resources\Shaders\DepthOfField.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
