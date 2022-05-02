@@ -39,11 +39,11 @@ public class HandAnimation : MonoBehaviour
 
     private void Pinching(InputAction.CallbackContext obj)
     {
-        animator.SetFloat("Pinch", obj.ReadValue<float>());
+        animator.SetFloat("Trigger", obj.ReadValue<float>());
     }
 
     private void PinchRelease(InputAction.CallbackContext obj)
     {
-        animator.SetFloat("Pinch", 0f);
+        animator.SetFloat("Trigger", 0f);
     }
 }
